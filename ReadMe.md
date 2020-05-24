@@ -1,13 +1,10 @@
-…or create a new repository on the command line
-echo "# ctf_history" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/takaki-d/ctf_history.git
-git push -u origin master
-                
-…or push an existing repository from the command line
-git remote add origin https://github.com/takaki-d/ctf_history.git
-git push -u origin master
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+This is a private CTF log.
+
+You can read or watch what I experienced in CTF.
+In addtion, you can use any code in this repository you like 
+wihout any permission.
+
+If there is any copyright infringement, please contact me.
+I will work out this immediately.
+
+So, enjoy!
